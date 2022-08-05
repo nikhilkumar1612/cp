@@ -3,7 +3,6 @@ using namespace std;
 #define ll 			long long
 
 int main() {
-	init();
 	ll n;
 	cin >> n;
 	ll k = (n - 1) / 3; // number of 3 multiples below n.
